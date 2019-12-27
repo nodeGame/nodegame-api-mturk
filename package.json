@@ -1,6 +1,6 @@
 {
   "name": "nodegame-api-mturk",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "description": "JS implementation of Amazon Mechanical Turk (mturk) API (initially forked from josebarrios api-mturk implementation)",
   "scripts": {
     "test": " mocha"
