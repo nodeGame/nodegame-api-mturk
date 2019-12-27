@@ -1,8 +1,7 @@
 [![Downloads][download-badge]][npm-url]
 
-### Install
-```sh
-npm install api-mturk
+This is a fork from http://josebarrios.github.io/api-mturk/
+
 ```
 ### Basic usage
 ```js
@@ -114,10 +113,4 @@ Operation  | Required Parameters | Unit test
 
 ## License
 
-MIT © [Jose Barrios](http://github.com/JoseBarrios)
-
-Banner derived from [Cosmin Cuciureanu's](https://www.behance.net/cosminkoz) [BrainUP](https://dribbble.com/shots/1108424-Brainup-Logo-Concept)
-
-[npm-url]: https://npmjs.org/package/mturk-api
-[npm-image]: https://img.shields.io/npm/v/mturk-api.svg?style=flat-square
-[download-badge]: http://img.shields.io/npm/dm/mturk-api.svg?style=flat-square
+MIT

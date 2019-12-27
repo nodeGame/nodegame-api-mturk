@@ -1,23 +1,23 @@
 {
-  "name": "api-mturk",
+  "name": "nodegame-api-mturk",
   "version": "1.2.3",
-  "description": "JS implementation of Amazon Mechanical Turk (mturk) API",
+  "description": "JS implementation of Amazon Mechanical Turk (mturk) API (initially forked from josebarrios api-mturk implementation)",
   "scripts": {
     "test": " mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josebarrios/api-mturk.git"
+    "url": "git+https://github.com/nodegame/nodegame-api-mturk.git"
   },
   "keywords": [
-    "amazon mechanical turk, api, mturk, amt, amazon, turk"
+    "amazon mechanical turk, api, mturk, amt, amazon, turk, nodegame"
   ],
-  "author": "Jose Barrios <jlbarrios22@gmail.com>",
+  "author": "Stefano Balietti <info@nodegame.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josebarrios/api-mturk/issues"
+    "url": "https://github.com/nodegame/nodegame-api-mturk/issues"
   },
-  "homepage": "https://github.com/josebarrios/api-mturk#readme",
+  "homepage": "https://github.com/nodegame/nodegame-api-mturk#readme",
   "dependencies": {
     "aws4": "^1.8.0",
     "moment": "^2.24.0",
