@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.1
+Readme improvement.
+
 ## 1.3.0
 Patched to avoid error throwing.
 
