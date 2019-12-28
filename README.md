@@ -1,6 +1,14 @@
 [![Downloads][download-badge]][npm-url]
 
-This is a fork from http://josebarrios.github.io/api-mturk/
+
+Handles low level API calls to the AWS services.
+
+Use [nodegame-mturk](https://github.com/nodeGame/nodegame-mturk) for
+your operations.
+
+Initially, this is was a fork
+[api-mturk](http://josebarrios.github.io/api-mturk/).
+
 
 ```
 ### Basic usage
